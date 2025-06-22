@@ -61,7 +61,7 @@ const Footer: React.FC<FooterProps> = ({ darkMode }) => {
             </h3>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/rahul-gupta"
+                href="https://github.com/RahulGupta931"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-2 rounded-lg transition-all duration-300 transform hover:scale-110 ${
@@ -73,7 +73,7 @@ const Footer: React.FC<FooterProps> = ({ darkMode }) => {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com/in/rahul-gupta"
+                href="https://www.linkedin.com/in/rahul-gupta24/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-2 rounded-lg transition-all duration-300 transform hover:scale-110 ${
