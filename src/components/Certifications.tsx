@@ -14,7 +14,7 @@ const Certifications: React.FC<CertificationsProps> = ({ darkMode }) => {
       date: '2024',
       description: 'Comprehensive deep learning course covering neural networks, TensorFlow implementation, and advanced deep learning techniques.',
       skills: ['TensorFlow', 'Deep Learning', 'Neural Networks', 'Python'],
-      link: 'https://www.credly.com/badges/example-badge',
+      link: 'https://courses.cognitiveclass.ai/certificates/7bab12a78a6c4e64bace62312b76d25a',
       color: 'blue'
     },
     {
@@ -24,7 +24,7 @@ const Certifications: React.FC<CertificationsProps> = ({ darkMode }) => {
       date: '2024',
       description: 'Hands-on machine learning course covering algorithms, model evaluation, and Python implementation.',
       skills: ['Python', 'Machine Learning', 'Scikit-Learn', 'Model Evaluation'],
-      link: 'https://www.credly.com/badges/example-ml-badge',
+      link: 'https://courses.cognitiveclass.ai/certificates/7bab12a78a6c4e64bace62312b76d25a',
       color: 'green'
     },
     {
@@ -34,7 +34,7 @@ const Certifications: React.FC<CertificationsProps> = ({ darkMode }) => {
       date: '2024',
       description: 'Data analysis fundamentals using Python, pandas, and statistical analysis techniques.',
       skills: ['Python', 'Pandas', 'Data Analysis', 'Statistics'],
-      link: 'https://www.credly.com/badges/example-da-badge',
+      link: 'https://courses.cognitiveclass.ai/certificates/3fdb5fc658d0460b9f4188cdb16b794b',
       color: 'purple'
     },
     {
@@ -44,7 +44,7 @@ const Certifications: React.FC<CertificationsProps> = ({ darkMode }) => {
       date: '2024',
       description: 'Creating compelling data visualizations using Python libraries like Matplotlib and Seaborn.',
       skills: ['Python', 'Matplotlib', 'Seaborn', 'Data Visualization'],
-      link: 'https://www.credly.com/badges/example-dv-badge',
+      link: 'https://courses.cognitiveclass.ai/certificates/baedb7afbaf94f3b8ad886e78d7677c9',
       color: 'orange'
     },
     {
@@ -54,7 +54,7 @@ const Certifications: React.FC<CertificationsProps> = ({ darkMode }) => {
       date: '2024',
       description: 'Database fundamentals, SQL queries, and relational database management systems.',
       skills: ['SQL', 'Database Management', 'Relational Databases', 'Query Optimization'],
-      link: 'https://www.credly.com/badges/example-sql-badge',
+      link: 'https://courses.cognitiveclass.ai/certificates/84a84ab0add543e2bcf41e228d7e9cf6',
       color: 'red'
     },
     {
@@ -64,7 +64,7 @@ const Certifications: React.FC<CertificationsProps> = ({ darkMode }) => {
       date: '2024',
       description: 'Demonstrated proficiency in Python programming with 4-star rating on HackerRank platform.',
       skills: ['Python', 'Problem Solving', 'Algorithms', 'Data Structures'],
-      link: 'https://www.hackerrank.com/certificates/example-cert',
+      link: 'https://www.hackerrank.com/certificates/4f726b379a65',
       color: 'indigo'
     }
   ];

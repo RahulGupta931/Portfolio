@@ -11,7 +11,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       title: 'Laptop Price Predictor',
       description: 'A machine learning application that predicts laptop prices based on specifications using advanced regression algorithms and feature engineering.',
       technologies: ['Python', 'Scikit-Learn', 'Pandas', 'Flask', 'HTML/CSS'],
-      github: 'https://github.com/rahul-gupta/laptop-price-predictor',
+      github: 'https://github.com/RahulGupta931/Laptop-Price-Predictor-Regression',
       demo: 'https://laptop-predictor-demo.vercel.app',
       icon: <Laptop size={24} />,
       color: 'blue'
@@ -20,7 +20,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       title: 'Object Detection with YOLOv11',
       description: 'Real-time object detection system using the latest YOLOv11 model with custom training capabilities and web interface for image/video processing.',
       technologies: ['Python', 'YOLOv11', 'OpenCV', 'TensorFlow', 'Streamlit'],
-      github: 'https://github.com/rahul-gupta/yolov11-detection',
+      github: 'https://github.com/RahulGupta931/Object_Detection_YOLOv11',
       demo: 'https://yolo-detection-demo.streamlit.app',
       icon: <Eye size={24} />,
       color: 'purple'
@@ -29,7 +29,7 @@ const Projects: React.FC<ProjectsProps> = ({ darkMode }) => {
       title: 'Rock vs Mine Prediction',
       description: 'Binary classification model to distinguish between rocks and mines using sonar data, featuring comprehensive data preprocessing and model evaluation.',
       technologies: ['Python', 'Scikit-Learn', 'Pandas', 'Matplotlib', 'Jupyter'],
-      github: 'https://github.com/rahul-gupta/rock-mine-prediction',
+      github: 'https://github.com/RahulGupta931/Rock-VS-Mine_Prediction',
       demo: 'https://rock-mine-classifier.herokuapp.com',
       icon: <TrendingUp size={24} />,
       color: 'green'

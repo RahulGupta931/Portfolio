@@ -79,7 +79,7 @@ const Hero: React.FC<HeroProps> = ({ darkMode }) => {
             
             <div className="flex gap-4">
               <a
-                href="https://linkedin.com/in/rahul-gupta"
+                href="https://linkedin.com/in/rahul-gupta24/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-3 rounded-full transition-all duration-300 transform hover:scale-110 shadow-lg ${
@@ -91,7 +91,7 @@ const Hero: React.FC<HeroProps> = ({ darkMode }) => {
                 <Linkedin size={20} />
               </a>
               <a
-                href="https://github.com/rahul-gupta"
+                href="https://github.com/RahulGupta931"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-3 rounded-full transition-all duration-300 transform hover:scale-110 shadow-lg ${

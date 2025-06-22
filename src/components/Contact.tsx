@@ -196,7 +196,7 @@ const Contact: React.FC<ContactProps> = ({ darkMode }) => {
                     Location
                   </p>
                   <p className={darkMode ? 'text-gray-300' : 'text-gray-600'}>
-                    Punjab, India
+                    Uttar Pradesh, India
                   </p>
                 </div>
               </div>
@@ -222,7 +222,7 @@ const Contact: React.FC<ContactProps> = ({ darkMode }) => {
 
             <div className="flex space-x-4 pt-6">
               <a
-                href="https://github.com/rahul-gupta"
+                href="https://github.com/RahulGupta931"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-3 rounded-lg transition-all duration-300 transform hover:scale-110 ${
@@ -234,7 +234,7 @@ const Contact: React.FC<ContactProps> = ({ darkMode }) => {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com/in/rahul-gupta"
+                href="https://www.linkedin.com/in/rahul-gupta24/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`p-3 rounded-lg transition-all duration-300 transform hover:scale-110 ${
